@@ -129,6 +129,13 @@ section{
     background-color: rgba(17, 2, 2, 0.2);
     padding: 15px;
 }
+#projectlist ul {
+    display: grid;
+    grid-template-columns: (3, 1fr);
+    gap: 10px;
+    border-style: solid;
+    border-color: brown;
+}
 
 #portfolio{
     text-align: center;
