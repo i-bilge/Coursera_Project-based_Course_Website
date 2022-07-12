@@ -1,6 +1,6 @@
 # :computer: Coursera_Project-based_Course_Website
 
-> You can see the Certificate [link](https://www.coursera.org/account/accomplishments/verify/EUEXQNPZMB5K)
+> Here is the Certificate [link](https://www.coursera.org/account/accomplishments/verify/EUEXQNPZMB5K)
 
 # Course Objectives
 In this course, we are going to focus on three learning objectives:
